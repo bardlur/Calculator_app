@@ -4,7 +4,7 @@ A Calculator app project with Flutter
 
 <br/>
 
-# Sappurts :
+# Support :
 - Android
 - IOS
 
