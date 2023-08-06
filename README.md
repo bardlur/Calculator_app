@@ -1,2 +1,2 @@
-# Calculator_app
+# Flutter: Calculator app
 A Calculator project with Flutter.
