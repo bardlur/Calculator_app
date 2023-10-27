@@ -1,6 +1,6 @@
 # Flutter: Calculator app
 
-A Calculator app project with Flutter
+💙 A Calculator app project with Flutter
 
 <br/>
 
